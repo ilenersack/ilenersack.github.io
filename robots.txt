@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ilenersack.github.io/sitemap.ilenersack.gz
+Sitemap: https://ilenersack.github.io/app/sitemap.ilenersack.gz
+Sitemap: https://ilenersack.github.io/assets/sitemap.ilenersack.gz
+Sitemap: https://ilenersack.github.io/css/sitemap.ilenersack.gz
+Sitemap: https://ilenersack.github.io/data/sitemap.ilenersack.gz
+Sitemap: https://ilenersack.github.io/includes/sitemap.ilenersack.gz
+Sitemap: https://ilenersack.github.io/item/sitemap.ilenersack.gz
+Sitemap: https://ilenersack.github.io/src/sitemap.ilenersack.gz
